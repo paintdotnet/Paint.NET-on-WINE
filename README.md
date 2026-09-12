@@ -1,6 +1,8 @@
 # Paint.NET-on-Wine
 Download packages and issue tracker for Paint.NET-on-Wine.
 
+Please note that Paint.NET-on-Wine is still in the early stages of development and testing and is considered to be **EXPERIMENTAL**.
+
 Issues (bugs) can be filed here and then they will be triaged appropriately. Some fixes will go into Paint.NET's code, some will be upstreamed to Wine.
 
 Please consult the `_README.md` included in the download packages for instructions etc.
